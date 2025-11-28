@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a student at KrNU. I write my own projects and study programming languages.
+
 <!--
 **Kutsenko1206/Kutsenko1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
